@@ -41,6 +41,7 @@ void sort(int* a, int n) {
 
 //
 int main() {
+    cout << "Sort Even No Only. Cin number of element and then the elements\n";
     int* a, n; cin >> n;
     a = new int[n];
 
